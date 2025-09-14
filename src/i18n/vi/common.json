@@ -1,0 +1,58 @@
+{
+  "welcome": {
+    "code": 20123,
+    "message": "Chào mừng bạn đến với ứng dụng của chúng tôi."
+  },
+  "successfully": {
+    "code": 20001,
+    "message": "Thao tác đã thành công."
+  },
+  "invalid_parameter": {
+    "code": 40002,
+    "message": "Tham số truy vấn không hợp lệ."
+  },
+  "missing_data": {
+    "code": 40003,
+    "message": "Thiếu dữ liệu truy vấn. Vui lòng kiểm tra lại."
+  },
+  "not_found": {
+    "code": 40404,
+    "message": "Không tìm thấy dữ liệu. Vui lòng thử lại."
+  },
+  "no_permission": {
+    "code": 40305,
+    "message": "Bạn cần quyền để thực hiện thao tác này."
+  },
+  "invalid_data": {
+    "code": 40006,
+    "message": "Dữ liệu nhập không hợp lệ."
+  },
+  "create_success": {
+    "code": 20007,
+    "message": "Tạo dữ liệu thành công."
+  },
+  "update_success": {
+    "code": 20008,
+    "message": "Cập nhật dữ liệu thành công."
+  },
+  "delete_success": {
+    "code": 20009,
+    "message": "Xóa dữ liệu thành công."
+  },
+  "get_success": {
+    "code": 20010,
+    "message": "Lấy dữ liệu thành công."
+  },
+  "no_file_pass": {
+    "code": 40011,
+    "message": "Không có tệp nào được gửi đi."
+  },
+  "server_error": {
+    "code": 50000,
+    "message": "Oops, server internal error. Please try again later."
+  },
+  "session_existed": {
+    "code": 50001,
+    "message": "SessionId existed."
+  }
+}

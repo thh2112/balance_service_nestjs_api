@@ -1,0 +1,58 @@
+{
+  "welcome": {
+    "code": 20123,
+    "message": "Welcome to our application. We're glad to have you here!"
+  },
+  "successfully": {
+    "code": 20001,
+    "message": "Operation completed successfully."
+  },
+  "invalid_parameter": {
+    "code": 40002,
+    "message": "Oops, the query parameters are not valid. Please check and try again."
+  },
+  "missing_data": {
+    "code": 40003,
+    "message": "Some query parameters are missing. Please provide all required information."
+  },
+  "not_found": {
+    "code": 40404,
+    "message": "Sorry, the requested data could not be found."
+  },
+  "no_permission": {
+    "code": 40305,
+    "message": "Oops, you don't have the necessary permissions to perform this action."
+  },
+  "invalid_data": {
+    "code": 40006,
+    "message": "The data you provided is not valid. Please double-check your input."
+  },
+  "create_success": {
+    "code": 20007,
+    "message": "Data has been successfully created."
+  },
+  "update_success": {
+    "code": 20008,
+    "message": "Data has been successfully updated."
+  },
+  "delete_success": {
+    "code": 20009,
+    "message": "Data has been successfully deleted."
+  },
+  "get_success": {
+    "code": 20010,
+    "message": "Data retrieval was successful."
+  },
+  "no_file_pass": {
+    "code": 40011,
+    "message": "Oops, no file was uploaded. Please attach a file and try again."
+  },
+  "server_error": {
+    "code": 50000,
+    "message": "Oops, server internal error. Please try again later."
+  },
+  "session_existed": {
+    "code": 50001,
+    "message": "SessionId existed."
+  }
+}
